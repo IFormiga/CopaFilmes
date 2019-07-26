@@ -1,0 +1,44 @@
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.deps.json
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfoInputs.cache
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfo.cs
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\source\repos\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.deps.json
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csprojAssemblyReference.cache
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csproj.CoreCompileInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfoInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfo.cs
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\ifa\Desktop\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.deps.json
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csprojAssemblyReference.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csproj.CoreCompileInputs.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfoInputs.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfo.cs
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\Desktop\Copa\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.deps.json
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csprojAssemblyReference.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csproj.CoreCompileInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfoInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfo.cs
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\ifa\Desktop\CopaFilmes-master\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.deps.json
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\bin\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csprojAssemblyReference.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.csproj.CoreCompileInputs.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfoInputs.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.AssemblyInfo.cs
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.dll
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\CopaFilmes.AutomatedTests\obj\Debug\netcoreapp2.2\CopaFilmes.AutomatedTests.pdb

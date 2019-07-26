@@ -1,0 +1,35 @@
+C:\Users\ifa\Desktop\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.deps.json
+C:\Users\ifa\Desktop\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\ifa\Desktop\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\ifa\Desktop\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfo.cs
+C:\Users\ifa\Desktop\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\ifa\Desktop\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.deps.json
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfo.cs
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\igorf\Desktop\Copa\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.deps.json
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfo.cs
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\ifa\Desktop\CopaFilmes-master\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.deps.json
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.AssemblyInfo.cs
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.dll
+C:\Users\igorf\Desktop\Projeto ATUALIZADO\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Domain.Entities.pdb

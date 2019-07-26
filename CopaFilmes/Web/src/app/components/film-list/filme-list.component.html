@@ -1,0 +1,20 @@
+<img class="logo" width="300" alt="Copa Filmes Logo" src="https://image.flaticon.com/icons/svg/53/53264.svg">
+
+<label>Selecionado {{QuantosSelecionados()}} de 8</label>
+<div class="filme-item" *ngFor="let filme of filmesFiltrados()" @fade>
+  <div class="filme-item-left">
+    <input type="checkbox" *ngIf="LimiteSelecionado()"  [(ngModel)]="filme.completed">
+    <div *ngIf="!filme.editing" class="filme-item-label" [ngClass]="{ 'completed' : filmes.completed }">{{ filme.filme.descricao }}({{ filme.lancamento}})</div>
+  </div>
+</div>
+
+<div class="extra-container">
+  <div><Button (click)="GerarCampeonato()">Gerar Campeonato</Button></div>
+  <div *ngIf="aoMenosUmSelecionado()"><button (click)="clearCompleted()">Limpar Seleção de Filmes</button></div>
+</div>
+<div *ngIf="ExisteResultado()" class="extra-container">
+  <label>Campeão: {{resultadoCampeonato.filmeCampeao.descricao}}</label>
+</div>
+<div *ngIf="ExisteResultado()" class="extra-container">
+  <label>Vice-Campeão: {{resultadoCampeonato.filmeViceCampeao.descricao}}</label>
+</div>

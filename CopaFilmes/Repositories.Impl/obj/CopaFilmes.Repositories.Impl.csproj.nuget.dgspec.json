@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Repositories.Impl\\CopaFilmes.Repositories.Impl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\CopaFilmes.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\CopaFilmes.Entities.csproj",
+        "projectName": "CopaFilmes.Entities",
+        "projectPath": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\CopaFilmes.Entities.csproj",
+        "packagesPath": "C:\\Users\\igorf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igorf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Repositories.Impl\\CopaFilmes.Repositories.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Repositories.Impl\\CopaFilmes.Repositories.Impl.csproj",
+        "projectName": "CopaFilmes.Repositories.Impl",
+        "projectPath": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Repositories.Impl\\CopaFilmes.Repositories.Impl.csproj",
+        "packagesPath": "C:\\Users\\igorf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Repositories.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igorf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\CopaFilmes.Entities.csproj": {
+                "projectPath": "C:\\Users\\igorf\\source\\repos\\CopaFilmes\\Entities\\CopaFilmes.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

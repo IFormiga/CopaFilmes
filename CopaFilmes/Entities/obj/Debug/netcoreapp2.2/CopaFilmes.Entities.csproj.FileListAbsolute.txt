@@ -1,0 +1,9 @@
+C:\Users\igorf\source\repos\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Entities.deps.json
+C:\Users\igorf\source\repos\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Entities.dll
+C:\Users\igorf\source\repos\CopaFilmes\Entities\bin\Debug\netcoreapp2.2\CopaFilmes.Entities.pdb
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.csprojAssemblyReference.cache
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.AssemblyInfoInputs.cache
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.AssemblyInfo.cs
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.dll
+C:\Users\igorf\source\repos\CopaFilmes\Entities\obj\Debug\netcoreapp2.2\CopaFilmes.Entities.pdb
