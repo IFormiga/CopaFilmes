@@ -1,6 +1,7 @@
 # CopaFilmes
 
 ## About
+Um projeto de um sistema de copa de filmes, onde você escolhe uma quantidade de filmes e realiza uma competição.
 Esse projeto foi feito usando .Net Core e Angular.
 A arquitetura escolhida foi uma arquitetura onion com o foco em desacoplar as camadas.
 ## FrontEnd
